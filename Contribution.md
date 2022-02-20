@@ -80,6 +80,7 @@ Comment on any existing issue raised by maintainers or raise an issue
 3)The description should be ellaborate explaining the changes with proper screenshots or the clip of the test done on device/emulator  
 4)Look out for possible merge conflicts.  
 5)Please be patient enough. The project maintainers/mentors would review it as per their schedule. Please do not start putting comments like "Please check this" etc.
+6)Follow the given [PULL REQUEST TEMPLATE](https://github.com/Diversion2k22/Samarpan/blob/master/.github/PULL_REQUEST_TEMPLATE.md) for creating a pull request
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
